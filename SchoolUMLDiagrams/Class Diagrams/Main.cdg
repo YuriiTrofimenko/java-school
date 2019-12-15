@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Main">
+  <ClassDiagramComponents>
+    <Class name="Dept" package="" visibility="public" xPosition="137.0" yPosition="97.0">
+      <Fields>
+        <Field name="id" type="Integer" visibility="public"/>
+        <Field name="name" type="String" visibility="public"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+    <Class name="Emp" package="" visibility="public" xPosition="383.0" yPosition="74.0">
+      <Fields>
+        <Field name="firstName" type="String" visibility="public"/>
+        <Field name="lastName" type="String" visibility="public"/>
+        <Field name="age" type="Integer" visibility="public"/>
+        <Field name="depId" type="Integer" visibility="public"/>
+        <Field name="salary" type="Double" visibility="public"/>
+        <Field name="position" type="Integer" visibility="public"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
